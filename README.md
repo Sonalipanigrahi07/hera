@@ -1,4 +1,3 @@
-# hera
 # HERA
 
 ### Connecting Her Health Story, Empowering Her Care
